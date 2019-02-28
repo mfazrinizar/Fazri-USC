@@ -15,7 +15,7 @@ There are 3 kind of OS (Operating System) which is tested and compatible against
 - cd Fazri-USC
 - perl usc.pl
 
-atau
+or
 
 - sudo apt-get install perl
 - sudo apt-get install git
