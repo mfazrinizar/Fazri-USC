@@ -1,6 +1,6 @@
 # Fazri-USC
 
-Fazri-USC is a tool that can check and show the detail of the website/url's response. Fazri-USC has a full name, it is Fazri-URL Status Checker. Coded with Perl, Coded by M.Fazri Nizar, synchronized in the GitHub Repository : https://github.com/Anon6372098/FazPort.
+Fazri-USC is a tool that can check and show the detail of the website/url's response. Fazri-USC has a full name, it is Fazri-URL Status Checker. Coded with Perl, Coded by M.Fazri Nizar, synchronized in the GitHub Repository : https://github.com/Anon6372098/Faz-USC.
  
 ## How to Run This Tool/Program ?
 
@@ -11,18 +11,18 @@ There are 3 kind of OS (Operating System) which is tested and compatible against
 - apt-get install perl
 - apt-get install git
 - cpan install Term::ANSIScreen
-- git clone https://github.com/Anon6372098/FazPort
-- cd FazPort
-- perl fazport.pl
+- git clone https://github.com/Anon6372098/Fazri-USC
+- cd Fazri-USC
+- perl usc.pl
 
 or
 
 - sudo apt-get install perl
 - sudo apt-get install git
 - cpan install Term::ANSIScreen
-- git clone https://github.com/Anon6372098/FazPort
-- cd FazPort
-- perl fazport.pl
+- git clone https://github.com/Anon6372098/Fazri-USC
+- cd Fazri-USC
+- perl usc.pl
 
 ### Windows (CMDer)
 
@@ -33,9 +33,9 @@ or
 - choco install perl
 - choco install git
 - cpan install Term::ANSIScreen
-- git clone https://github.com/Anon6372098/FazPort
-- cd FazPort
-- perl fazport.pl
+- git clone https://github.com/Anon6372098/Fazri-USC
+- cd Fazri-USC
+- perl usc.pl
 
 ### Android (Termux)
 
@@ -43,6 +43,6 @@ or
 - pkg install perl
 - pkg install git
 - cpan install Term::ANSIScreen
-- git clone https://github.com/Anon6372098/FazPort
-- cd FazPort
-- perl fazport.pl
+- git clone https://github.com/Anon6372098/Fazri-USC
+- cd Fazri-USC
+- perl usc.pl
